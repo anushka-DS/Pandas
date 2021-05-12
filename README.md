@@ -38,3 +38,11 @@ Robust IO tools for loading data from flat files (CSV and delimited), Excel file
 Time series-specific functionality: date range generation and frequency conversion, moving window statistics, date shifting and lagging.
 
 Many of these principles are here to address the shortcomings frequently experienced using ot
+
+
+
+## Useful References
+
+https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html
+https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html
+https://www.kaggle.com/learn/pandas
