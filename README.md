@@ -46,3 +46,16 @@ Many of these principles are here to address the shortcomings frequently experie
 https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html
 https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html
 https://www.kaggle.com/learn/pandas
+
+Pandas-
+Pandas Cheatsheet
+
+Guide to slicing and indexing pandas DataFrames - Video tutorial
+
+Grouping and Aggregating using Pandas - Video tutorial
+
+Merge, Join, Append, Concat using Pandas - is there a preference?
+
+Working with Dates and Time Series Data using Pandas - Video tutorial
+
+Pandas Official Documentation
