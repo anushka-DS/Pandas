@@ -44,18 +44,21 @@ Many of these principles are here to address the shortcomings frequently experie
 ## Useful References
 
 https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html
+
 https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html
+
 https://www.kaggle.com/learn/pandas
 
-Pandas-
-Pandas Cheatsheet
+## Pandas-
 
-Guide to slicing and indexing pandas DataFrames - Video tutorial
+https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
 
-Grouping and Aggregating using Pandas - Video tutorial
+https://www.youtube.com/watch?v=SYNEHBofpGE - Video tutorial
 
-Merge, Join, Append, Concat using Pandas - is there a preference?
+https://www.youtube.com/watch?v=txMdrV1Ut64 - Video tutorial
 
-Working with Dates and Time Series Data using Pandas - Video tutorial
+https://www.youtube.com/watch?v=g7n1MZyYjOM - is there a preference?
 
-Pandas Official Documentation
+https://www.youtube.com/watch?v=UFuo7EHI8zc - Video tutorial
+
+https://pandas.pydata.org/pandas-docs/version/0.15/tutorials.html - Pandas Official Documentation
